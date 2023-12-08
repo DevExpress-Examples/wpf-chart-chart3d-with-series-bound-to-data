@@ -3,18 +3,24 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T465331)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
+
+# Chart for WPF - Create a 3D Chart Control with a Series Bound to Data
+
+The example shows how to create a 3D Chart Control, bind it to a data source, and configure the chart appearance.
+
+![Chart](./images/chart.png)
+
+## Files to Review
 
 * **[MainWindow.xaml](./CS/GettingStarted2/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/GettingStarted2/MainWindow.xaml))**
 * [Star.cs](./CS/GettingStarted2/Star.cs) (VB: [Star.vb](./VB/GettingStarted2/Star.vb))
 * [StarDataViewModel.cs](./CS/GettingStarted2/StarDataViewModel.cs) (VB: [StarDataViewModel.vb](./VB/GettingStarted2/StarDataViewModel.vb))
-<!-- default file list end -->
-# Chart3D Getting Started Lesson 2
 
+## More Examples 
 
-<p>This example contains the finished project from Chart3DControl <a href="https://documentation.devexpress.com/WPF/117584/Controls-and-Libraries/Charts-Suite/Chart3D-Control/Getting-Started/Lesson-2-Create-a-Chart3D-Control-with-a-Series-Bound-to-Data">Getting Started Lesson 2</a>.</p>
+* [Chart for WPF - Create a Simple Unbound 3D Chart](https://github.com/DevExpress-Examples/wpf-pivot-create-unbound-3d-chart)
+* [Chart for WPF - Create a 3D Chart with Automatically Generated Series](https://github.com/DevExpress-Examples/wpf-chart-create-3d-chart-with-automatically-generated-series)
 
-<br/>
+## Documentation 
 
-
+[Lesson 2 - Create a 3D Chart Control with a Series Bound to Data](https://docs.devexpress.com/WPF/117584/controls-and-libraries/charts-suite/chart3d-control/getting-started/lesson-2-create-a-chart3d-control-with-a-series-bound-to-data)
