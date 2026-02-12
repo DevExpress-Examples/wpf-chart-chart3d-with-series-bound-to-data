@@ -26,7 +26,7 @@ The example shows how to create a 3D Chart Control, bind it to a data source, an
 
 [Lesson 2 - Create a 3D Chart Control with a Series Bound to Data](https://docs.devexpress.com/WPF/117584/controls-and-libraries/charts-suite/chart3d-control/getting-started/lesson-2-create-a-chart3d-control-with-a-series-bound-to-data)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-chart-chart3d-with-series-bound-to-data&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-chart-chart3d-with-series-bound-to-data&~~~was_helpful=no)
 
